@@ -1,5 +1,5 @@
 # Projeto CRUD Java + SpringBoot
-API desenvolvida com Framework SpringBoot utilizando JPA + Lombok + Swagger, utilizando a versão do Java 14;
+API desenvolvida com Framework SpringBoot utilizando JPA + Swagger, utilizando a versão do Java 14;
 
 Banco de Dados utilizado foi o MySQL.
 
